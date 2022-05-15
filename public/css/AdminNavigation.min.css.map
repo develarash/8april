@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../sass/Admin/AdminNavigation.scss"
+    ],
+    "names": [],
+    "file": "AdminNavigation.min.css"
+}

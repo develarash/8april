@@ -1,0 +1,38 @@
+.Admin {
+  width: 100%;
+
+  // background-color: darkblue;
+}
+.AdminHeader {
+  width: 100%;
+  background: palegreen;
+  height: 7vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  &-left {
+    &-tglMenu {
+      font-size: 24px;
+
+    }
+  }
+}
+.Adminsection {
+    display: flex;
+  width: 100%;
+  height: 93vh;
+  background: salmon;
+}
+.AdminNavigation {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 5px;
+    
+  width: 20%;
+  background: red;
+}
+.AdminContent{
+    width: 80%;
+    background: floralwhite;
+
+}
